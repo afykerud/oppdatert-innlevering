@@ -1,33 +1,51 @@
-body { 
-background-color: #101a25;
+body {
+   
+padding-left: 14em;	/*Angir plasseringen til skriften i body*/
+color: black;	/*Angir skriftfarge*/
+    background-color: #101a25; /*Angir bakgrunnsfarge*/
+
+}
+ul.meny {
+    list-style-type: none;	/*Fjerner dotter fra meny*/
+    padding: 0;	
+    margin: 0;	
+position: absolute;
+    top: 6em;	/*GjÃ¸r at menyen havner til venstre pÃ¥ skjermen */	
+    left: 1.5em;	
+    width: 9em;
 }
 
-#Header {
-width: 400px;
-height: 20px;
-margin-left:auto;
-margin-right:auto;
-text-align:center;
-font-weight:bold;
-border-left:solid;
-border-right:solid;
-border-top:solid;
-background: #303942;
+ul.meny li {
+    background: #303942;	/*Setter bakgrunnsfarge til menyen */
+    margin: 0.5em 0;	
+    padding: 0.5em;
+    border-right: 1.5em solid #e9e9e9;
+  a:link {
+    color: #FFF; /*Gir fargen til linkene*/
+}	
+
+  a: hoover
+  { color: #00FF00;
+  }
+  a:visited {
+    color: #FFF; /*Gir farge til de linkene man har besÃ¸kt*/
+}	
+
+
+address {
+color: black;
+    margin-top: 1em;
+    padding-top: 1em;	/*Lager en prikkete linje over teksen i <address>*/
+    border-top: thin dotted; }
+
+
+
+
+   #proglangs {
+position: absolute;	/*Angir hvor sÃ¸kefeltet havner hen pÃ¥ skjermen*/
+    top: 6em;
+    right: 31em;
 }
 
 
-#Språk {
-border: solid;
-width: 400px;
-margin-left:auto;
-margin-right:auto;
-text-align:center;
-}
 
-#color1 {
-color: red;
-}
-
-#color2 {
-color: silver;
-}
