@@ -1,0 +1,33 @@
+body { 
+background-color: #101a25;
+}
+
+#Header {
+width: 400px;
+height: 20px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+font-weight:bold;
+border-left:solid;
+border-right:solid;
+border-top:solid;
+background: #303942;
+}
+
+
+#Språk {
+border: solid;
+width: 400px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+}
+
+#color1 {
+color: red;
+}
+
+#color2 {
+color: silver;
+}
