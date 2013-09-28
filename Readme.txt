@@ -1,15 +1,13 @@
-Kontrollspørsmål.
+Modell:
+vil si detter er teksten, her på min side informasjonen om programmeringsspråk.
 
-0: JavaScript brukes til å gjøre en web-side mer levende, med at man legger inn koder som gjør den interaktiv.
+Presentasjon:
+vil si dette er menyen til venstre og skriften på i senter. altså bruker grensesnittet
 
-1: Største forskjellen mellom id og classes, er vel at i utgangspunktet at id er best om man bare skal redigere på en ting. Der classes kan ta seg av fler
+Kontroller:
+dette er når brukeren trykker på en linkene, når det da starter en JavaScript funksjon. på min side når det egentlig skulle kommer et varsel der det står at siden
+er under konstruksjon.
 
-2: Det er vil være lettere å bla seg gjennom å finne det man leter etter i "1", mens i "0" vil man måtte lete mer og hele navigeringsprossen vil bli vanskeligere.
 
-3: Wikipedia burker <ul> og <li> til å lage lister og deretter organiserer de listene etter alfabetisk-, kronologisk-, generalistisk, og kategorisk-rekkefølge.
-
-4: Forskjellen er at en div-tag formaterer ikke noe av inholdet uten stildefinisjoner mens en span-tag setter inn et linjebrudd.
-
-5: Det vil bli vanskelig å navigere og finne det man skal.
 
    
