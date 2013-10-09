@@ -1,12 +1,11 @@
 oppdatert-innlevering
 =====================
-Modell:
-vil si detter er teksten, her på min side informasjonen om programmeringsspråk.
+Kontrollspørsmål til lab3.
 
-Presentasjon:
-vil si dette er menyen til venstre og skriften på i senter. altså bruker grensesnittet
+0:Fordelen med å bruke jquery istede for "rå" javascript: jquery oppdaterer og forbedrer koden sin, og er så og si i alle nettlesere. Pluss den er plassbesbarene i og med at det er mindere kode å skrive.
 
-Kontroller:
-dette er når brukeren trykker på en linkene, når det da starter en JavaScript funksjon. på min side når det egentlig skulle kommer et varsel der det står at siden
-er under konstruksjon.
+1: De sterke sidene til HTML/Css er at tekst vil være lettere å behandle og man får fleksibiliteten til css. De sterke sidene til Canvas, er at den takler bedre krevende grafiske muligheter. Canvas kan for eksempel brukes til å lage 3d-skygge til teksen du har skrevet.
 
+2: HTML5 Canvas representerer Bitmap. Man kan da få hver enktelt pixel til å få sin egen farge.
+
+X: Det tok meg ca. 4 og en halv time over 4dager.
